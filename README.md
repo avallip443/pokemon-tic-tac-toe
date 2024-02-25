@@ -6,7 +6,6 @@ Pokemon-inspired tic-tac-toe game using Python (Pygame)
 
 ## Get Started
 1. **Install Dependencies:**
-   Make sure you have Python installed and Pygame downloaded:
    ```bash
    pip install pygame
 
